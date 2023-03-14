@@ -82,13 +82,13 @@ When you're done using Pygmalion, please terminate your Colab session! You'll wa
 
 
 #### I've out of Quota, what do I do now?
-If you've run out of quota, you can do nothing but wait for your quota to reset. Alternatively, you can purchase Colab Pro to increase your daily/weekly quota.
+If you've run out of quota, you can do nothing but wait for your quota to reset. Alternatively, you can purchase Colab Pro to increase your daily/weekly quota. If you do decide to purchase Colab Pro, you can do so [here](https://colab.research.google.com/signup).
 
 
 #### What's a Compute Unit (CU)? Should I buy one?
 A CU is a unit that you can buy to be sure to be granted access to a powerful GPU.
 Pricing for Compute Engine is based on per-second usage of the machine types, persistent disks, and other resources that you select for your virtual machines.
-So it's up to you.
+So it's up to you. 
 
 #### I've run out of quota, but I can't buy a Compute Unit! What do I do?
 In that case, you can use [Kobold Horde](https://lite.koboldai.net). Generous users are donating their GPU power to the Horde, so that people can use them to run Language Models. Pygmalion is a popular model, so you'll always find people hosting it. Keep in mind that there are more Horde users than Workers, so you might have to wait a bit longer for responses.
